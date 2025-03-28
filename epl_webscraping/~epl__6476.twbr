@@ -1405,7 +1405,7 @@
                 <format attr='margin-top' value='24' />
               </zone-style>
             </zone>
-            <zone fixed-size='600' forceUpdate='true' h='55875' id='6' is-fixed='true' is-scaled='1' param='Image/_127556633_gettyimages-1411837387.jpg' type-v2='bitmap' w='98858' x='571' y='43125'>
+            <zone fixed-size='600' h='55875' id='6' is-fixed='true' is-scaled='1' param='Image/_127556633_gettyimages-1411837387.jpg' type-v2='bitmap' w='98858' x='571' y='43125'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -1442,7 +1442,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' forceUpdate='true' h='55875' id='6' is-fixed='true' is-scaled='1' param='Image/_127556633_gettyimages-1411837387.jpg' type-v2='bitmap' w='98858' x='571' y='43125'>
+                <zone fixed-size='280' h='55875' id='6' is-fixed='true' is-scaled='1' param='Image/_127556633_gettyimages-1411837387.jpg' type-v2='bitmap' w='98858' x='571' y='43125'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1468,7 +1468,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run fontname='Trebuchet MS' fontsize='36'>&lt;Sheet Name&gt;</run>
+            <run fontname='Trebuchet MS' fontsize='24'>&lt;Sheet Name&gt;</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -1503,10 +1503,10 @@
       <zones>
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
           <zone h='98400' id='1' param='vert' removable='false' type-v2='layout-flow' w='98858' x='571' y='800'>
-            <zone h='4200' id='3' type-v2='title' w='98858' x='571' y='800' />
-            <zone h='10100' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='98858' x='571' y='5000' />
-            <zone h='84100' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='98858' x='571' y='15100'>
-              <flipboard active-id='1' nav-type='caption' show-nav-arrows='false'>
+            <zone h='5600' id='3' type-v2='title' w='98858' x='571' y='800' />
+            <zone h='10100' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='98858' x='571' y='6400' />
+            <zone h='82700' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='98858' x='571' y='16500'>
+              <flipboard active-id='2' nav-type='caption' show-nav-arrows='false'>
                 <story-points>
                   <story-point caption='TITLE' captured-sheet='Dashboard 3' id='1'>
                     <capturedDeltas>
@@ -1626,12 +1626,12 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='36' />
+      <active id='-1' />
       <simple-id uuid='{C46E04BC-46F5-4F3F-A217-988329CBD3C7}' />
     </window>
     <window class='dashboard' maximized='true' name='EPL TABLE IN TABLEAU'>
       <viewpoints />
-      <active id='3' />
+      <active id='-1' />
       <simple-id uuid='{57CB166A-8180-401D-9625-19FC80B7AF75}' />
     </window>
     <window class='dashboard' name='Dashboard 3'>
